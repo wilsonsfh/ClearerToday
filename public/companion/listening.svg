@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <!-- Body blob: leaning forward -->
+  <ellipse cx="62" cy="76" rx="32" ry="28" fill="#1E293B" stroke="#334155" stroke-width="2"/>
+  <!-- Head -->
+  <circle cx="62" cy="44" r="28" fill="#1E293B" stroke="#334155" stroke-width="2"/>
+  <!-- Eyes: open circles -->
+  <circle cx="52" cy="41" r="5" fill="#22C55E"/>
+  <circle cx="72" cy="41" r="5" fill="#22C55E"/>
+  <!-- Pupils -->
+  <circle cx="52" cy="41" r="2" fill="#0F172A"/>
+  <circle cx="72" cy="41" r="2" fill="#0F172A"/>
+  <!-- Mouth: small O -->
+  <circle cx="62" cy="53" r="4" fill="#94A3B8"/>
+  <!-- Sound waves -->
+  <path d="M78 38 Q82 41 78 44" stroke="#22C55E" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <path d="M82 35 Q88 41 82 47" stroke="#22C55E" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.6"/>
+</svg>
